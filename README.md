@@ -1,12 +1,12 @@
--    👀 I’m interested in amazing collaborations and exploring the potential of AI.
--  🌱 I’m currently learning about various AI technologies as a bachelor's student.
--  💞️ I’m looking to collaborate on projects related to AI, machine learning, and data science.
--   📫 You can reach me through email at hamza.asif0087@gmail.com.
--    😄 Pronouns: He/Him
--    ⚡ Fun fact: I enjoy experimenting with new AI algorithms and technologies in my free time.
-
 # 💫 About Me:
-I'm working as front end developer<br>I'm currently a student presuing the bechloers degree in AI<br>I'm looking to collborate witht the web developes and AI enthusait<br> 
+
+    👀 I’m interested in amazing collaborations and exploring the potential of AI.
+    🌱 I’m currently learning about various AI technologies as a bachelor's student.
+    💞️ I’m looking to collaborate on projects related to AI, machine learning, and data science.
+    📫 You can reach me through email at hamza.asif0087@gmail.com.
+    😄 Pronouns: He/Him
+    ⚡ Fun fact: I enjoy experimenting with new AI algorithms and technologies in my free time.
+<br> 
 
 
 ## 🌐 Socials:
