@@ -21,9 +21,7 @@ Here are some of my highlighted **AI & Development projects**:
 
 - 🔹 **3D Model Configurator with AR/VR** → Customize 3D models with React Three Fiber + AR/VR modes.  
 - 🔹 **YOLO Face & Gender Recognition** → Enhanced YOLO-based pipeline for real-time face/gender detection.  
-- 🔹 **Scene Classification CNN** → Trained a CNN model for classifying environments using physioDL dataset.  
 - 🔹 **Travel Agency Website** → Full-stack site with flight + hotel booking flow.  
-- 🔹 **Coffee Market Analyzer (Python)** → Automated insights into coffee shop markets in Pakistan.  
 
 👉 Check out more in my [Repositories](https://github.com/HaMZAAsif043?tab=repositories).  
 
