@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m **Hamza Asif** — a passionate **Frontend Developer & AI Enthusiast**.  
 🚀 Exploring the intersection of **AI, Machine Learning, and Web Development**.  
-🎓 Currently pursuing my **BS in Artificial Intelligence** at UMT (6th Semester).  
+🎓 Currently pursuing my **BS in Artificial Intelligence** at UMT (Final Year).  
 💡 Love experimenting with **AI models, Python projects, and React/Next.js applications**.  
 🤝 Open to collaborations in **AI, Machine Learning, Web3, and full-stack projects**.  
 📫 Reach me at: **hamza.asif0087@gmail.com**  
