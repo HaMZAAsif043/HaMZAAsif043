@@ -58,10 +58,3 @@ Here are some of my highlighted **AI & Development projects**:
 ![](https://github-profile-trophy.vercel.app/?username=HaMZAAsif043&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)  
 
 ---
-
-### 😂 Random Dev Meme
-![Dev Meme](https://random-memer.herokuapp.com/)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=HaMZA)]()
