@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer with a strong problem-solving mindset  <br>Final-year Bachelor’s student in Artificial Intelligence  <br>Based in Lahore, Pakistan  <br>Open to full-time roles, internships, and collaborations  <br>Driven by continuous learning and experimentation  <br>Actively exploring modern programming paradigms and architectures  <br>Building scalable, intelligent, real-world solutions
+Full Stack Developer with a strong problem-solving mindset  <br>8th Semester Bachelor’s student in Artificial Intelligence  <br>Based in Lahore, Pakistan  <br>Open to full-time roles, internships, and collaborations  <br>Driven by continuous learning and experimentation  <br>Actively exploring modern programming paradigms and architectures  <br>Building scalable, intelligent, real-world solutions
 
 
 ## 🌐 Socials:
