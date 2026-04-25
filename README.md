@@ -1,10 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hamza%20Asif&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Systems%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+```
+ ██╗  ██╗ █████╗ ███╗   ███╗███████╗ █████╗
+ ██║  ██║██╔══██╗████╗ ████║╚══███╔╝██╔══██╗
+ ███████║███████║██╔████╔██║  ███╔╝ ███████║
+ ██╔══██║██╔══██║██║╚██╔╝██║ ███╔╝  ██╔══██║
+ ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██║  ██║
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-<br/>
+### Full-Stack Developer &nbsp;·&nbsp; AI Engineer &nbsp;·&nbsp; Systems Architect
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+AI+systems+that+work+in+the+real+world.;Django+%C2%B7+Next.js+%C2%B7+Gemini+Live+%C2%B7+Voice+Agents+%C2%B7+Autonomous+Agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=40&lines=Building+AI+systems+that+work+in+the+real+world.;Django+%C2%B7+Next.js+%C2%B7+Gemini+Live+%C2%B7+Voice+Agents+%C2%B7+Autonomous+Agents)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,8 +21,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=HamzaAsif043&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/HaMZAAsif043)
 
 </div>
-
-<br/>
 
 ---
 
@@ -84,33 +89,39 @@ I build production AI systems — voice agents handling real phone calls in Urdu
 ## 🏗️ Featured Projects
 
 <details>
-<summary><b>🎙️ Gemini Live Django — Voice Agent Infrastructure</b></summary>
+<summary><b>🎙️ Voice Agent Platform — Live at BlenSpark</b></summary>
 <br/>
-Production-grade WebSocket consumer architecture bridging SIP/Twilio audio (μ-law 8kHz) to Gemini Live (PCM16 16kHz/24kHz) with real-time audioop transcoding. Deployed on Railway with Daphne ASGI.
+Production bilingual voice agent platform handling real inbound/outbound calls in Urdu & English. Personas include Sara (healthcare) and Zara/Ali (restaurants). Built on a custom WebSocket consumer architecture bridging SIP/Twilio audio (μ-law 8kHz) to Gemini Live (PCM16 16kHz) with real-time audioop transcoding. Deployed on Railway with Daphne ASGI.
 <br/><br/>
-<code>Gemini Live API</code> <code>Vertex AI</code> <code>Django Channels</code> <code>Railway</code>
+🔗 <a href="https://voiceagent.blenspark.com/"><strong>voiceagent.blenspark.com</strong></a>
+<br/><br/>
+<code>Gemini Live API</code> <code>Vertex AI</code> <code>Django Channels</code> <code>Twilio</code> <code>Railway</code>
 </details>
 
 <details>
-<summary><b>🌐 DineIn — Restaurant Platform Pakistan</b></summary>
+<summary><b>🧊 3D Product Configurator — Live at BlenSpark</b></summary>
 <br/>
-Full-featured restaurant management and discovery platform live at <a href="https://dinein.pk">dinein.pk</a> — booking management, admin dashboard, JWT + Google OAuth.
+Real-time 3D product configurator for international clients — texture mapping, normal map controls, orbital camera, and live material switching. Shipped for a Boston-based AV company.
 <br/><br/>
-<code>Next.js</code> <code>Django</code> <code>PostgreSQL</code> <code>JWT</code>
-</details>
-
-<details>
-<summary><b>🧊 3D AV Configurator — Boston Client</b></summary>
-<br/>
-Real-time 3D product configurator with texture mapping, normal map inversion fixes, and orbital controls. Delivered for an international client.
+🔗 <a href="https://blenspark.com/3d-configurator"><strong>blenspark.com/3d-configurator</strong></a>
 <br/><br/>
 <code>React Three Fiber</code> <code>Three.js</code> <code>TypeScript</code>
 </details>
 
 <details>
+<summary><b>🌐 DineIn — Restaurant Platform Pakistan</b></summary>
+<br/>
+Full-featured restaurant management and discovery platform — booking management, admin dashboard, JWT + Google OAuth. Live in Pakistan.
+<br/><br/>
+🔗 <a href="https://dinein.pk"><strong>dinein.pk</strong></a>
+<br/><br/>
+<code>Next.js</code> <code>Django</code> <code>PostgreSQL</code> <code>JWT</code>
+</details>
+
+<details>
 <summary><b>🤖 WhatsApp Voice Bot</b></summary>
 <br/>
-Voice-to-voice WhatsApp bot using Green API — OGG OPUS recording → Gemini 2.5 Flash STT/LLM/TTS → audio reply back to the user.
+Voice-to-voice WhatsApp bot using Green API — OGG OPUS recording → Gemini 2.5 Flash STT/LLM/TTS → audio reply sent back to the user.
 <br/><br/>
 <code>Gemini 2.5 Flash</code> <code>Green API</code> <code>pydub</code> <code>ffmpeg</code>
 </details>
@@ -187,8 +198,6 @@ Voice-to-voice WhatsApp bot using Green API — OGG OPUS recording → Gemini 2.
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 *Open to full-time roles, freelance projects, and meaningful collaborations.*
 
