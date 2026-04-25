@@ -1,127 +1,165 @@
 <div align="center">
 
-```
- ██╗  ██╗ █████╗ ███╗   ███╗███████╗ █████╗
- ██║  ██║██╔══██╗████╗ ████║╚══███╔╝██╔══██╗
- ███████║███████║██╔████╔██║  ███╔╝ ███████║
- ██╔══██║██╔══██║██║╚██╔╝██║ ███╔╝  ██╔══██║
- ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██║  ██║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hamza%20Asif&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Systems%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### Full-Stack Developer · AI Engineer · Builder of Autonomous Agents
+<br/>
 
-*Lahore, Pakistan 🇵🇰 — turning coffee into working systems since 2022*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+AI+systems+that+work+in+the+real+world.;Django+%C2%B7+Next.js+%C2%B7+Gemini+Live+%C2%B7+Voice+Agents+%C2%B7+Autonomous+Agents)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-asif043)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.asif0087@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaMZAAsif043)
-[![Profile Views](https://visitcount.itsvg.in/api?id=HamzaAsif043&icon=0&color=6)](https://visitcount.itsvg.in)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-asif043)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.asif0087@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaMZAAsif043)
+[![Profile Views](https://komarev.com/ghpvc/?username=HamzaAsif043&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/HaMZAAsif043)
 
 </div>
 
----
-
-## ⚡ What I'm Building Right Now
-
-> I don't just use AI — I build the systems that make it actually work.
-
-| Project | Stack | Status |
-|---|---|---|
-| 🤖 **JARVIS** — Autonomous desktop AI agent for browser automation, file control & PC management via natural language | Gemini 2.5 Flash · Playwright · PyAutoGUI · FastAPI | 🔨 Active |
-| 📞 **Sara & Zara/Ali** — Bilingual Urdu/English voice agent platform for healthcare & restaurants | Gemini Live API · Django Channels · WebSockets · SIP/Twilio | 🔨 Active |
-| 🌍 **TravelMate AI** — Full-stack AI travel planning agent with real-time flight & hotel data | Django · Next.js · Groq · Amadeus API | ✅ Complete (FYP) |
+<br/>
 
 ---
 
-## 🧠 About Me
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAsif043&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="38%"/>
 
-I'm a **Full-Stack Developer** at [BlenSpark](https://blenspark.com) (Lahore) and a final-semester **BS Artificial Intelligence** student at UMT — graduating 2026.
+### 👨‍💻 About Me
 
-My work sits at the intersection of **AI engineering** and **production web systems**. I build things that work: voice agents that handle real phone calls in Urdu and English, desktop automation agents, 3D configurators for international clients, and AI-powered backends that serve real users.
+```python
+class HamzaAsif:
+    role        = "Full-Stack Developer @ BlenSpark"
+    education   = "BS Artificial Intelligence, UMT — Class of 2026"
+    location    = "Lahore, Pakistan 🇵🇰"
+    focus       = ["Voice AI", "Autonomous Agents", "Full-Stack Systems"]
+    goal        = "Build products that scale — then take them global"
+```
 
-- 🎤 Deep experience with **voice AI pipelines** — STT, LLM, TTS, real-time audio streaming, WebSocket consumers
-- 🔌 Production deployments on **Railway, Vercel, AWS** — I've debugged the ugly stuff too
-- 🧩 Full-stack fluency: **Django/DRF** backends → **Next.js/TypeScript** frontends
-- 📡 Currently exploring **SIP telephony** integration for Pakistani phone networks (Multinet, PTCL)
-- 🎯 Long-term goal: independent agency + relocation to the Gulf region
+I build production AI systems — voice agents handling real phone calls in Urdu & English, autonomous desktop agents, and full-stack platforms shipped to international clients. Currently in my final semester while shipping at [BlenSpark](https://blenspark.com).
+
+<br clear="right"/>
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Currently Building
+
+<table>
+<tr>
+<td width="50%">
+
+**🤖 JARVIS — Autonomous Desktop Agent**
+> Full PC control via natural language. Browser automation, file management, WhatsApp Web, terminal — all from a cyberpunk dashboard.
+
+`Gemini 2.5 Flash` `Playwright` `PyAutoGUI` `FastAPI`
+
+</td>
+<td width="50%">
+
+**🎙️ Voice Agent Platform (BlenSpark)**
+> Bilingual Urdu/English voice agents — Sara (healthcare), Zara & Ali (restaurants) — handling real phone calls with near-zero latency.
+
+`Gemini Live API` `Django Channels` `WebSockets` `Twilio/SIP`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📞 SIP Telephony Integration**
+> Connecting AI voice agents to the Pakistani phone network for production deployment.
+
+`PySIPio` `Multinet` `PTCL` `μ-law Audio Transcoding`
+
+</td>
+<td width="50%">
+
+**🌐 TravelMate AI — FYP**
+> Full-stack AI travel planning agent with real-time flight and hotel search.
+
+`Django` `Next.js` `Groq` `Amadeus API`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏗️ Featured Projects
+
+<details>
+<summary><b>🎙️ Gemini Live Django — Voice Agent Infrastructure</b></summary>
+<br/>
+Production-grade WebSocket consumer architecture bridging SIP/Twilio audio (μ-law 8kHz) to Gemini Live (PCM16 16kHz/24kHz) with real-time audioop transcoding. Deployed on Railway with Daphne ASGI.
+<br/><br/>
+<code>Gemini Live API</code> <code>Vertex AI</code> <code>Django Channels</code> <code>Railway</code>
+</details>
+
+<details>
+<summary><b>🌐 DineIn — Restaurant Platform Pakistan</b></summary>
+<br/>
+Full-featured restaurant management and discovery platform live at <a href="https://dinein.pk">dinein.pk</a> — booking management, admin dashboard, JWT + Google OAuth.
+<br/><br/>
+<code>Next.js</code> <code>Django</code> <code>PostgreSQL</code> <code>JWT</code>
+</details>
+
+<details>
+<summary><b>🧊 3D AV Configurator — Boston Client</b></summary>
+<br/>
+Real-time 3D product configurator with texture mapping, normal map inversion fixes, and orbital controls. Delivered for an international client.
+<br/><br/>
+<code>React Three Fiber</code> <code>Three.js</code> <code>TypeScript</code>
+</details>
+
+<details>
+<summary><b>🤖 WhatsApp Voice Bot</b></summary>
+<br/>
+Voice-to-voice WhatsApp bot using Green API — OGG OPUS recording → Gemini 2.5 Flash STT/LLM/TTS → audio reply back to the user.
+<br/><br/>
+<code>Gemini 2.5 Flash</code> <code>Green API</code> <code>pydub</code> <code>ffmpeg</code>
+</details>
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Backend & APIs**
+**Backend**
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=gray)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Frontend**
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 **AI / ML**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 **Databases**
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Infrastructure & DevOps**
+**Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 🤖 JARVIS — Local Desktop AI Agent
-> Natural language → full PC control. Browser automation, file management, WhatsApp Web, terminal commands — all from a cyberpunk-themed dashboard.
-
-**Stack:** Gemini 2.5 Flash · browser-use · Playwright · PyAutoGUI · FastAPI
-
----
-
-### 🎙️ BlenSpark Voice Agent Platform
-> Production voice agents (Sara for healthcare, Zara/Ali for restaurants) handling real bilingual Urdu/English calls with sub-second latency.
-
-**Stack:** Gemini Live API (Vertex AI) · Django Channels · WebSockets · Twilio/SIP · PCM16 audio streaming
-
----
-
-### 🌐 DineIn — Restaurant Platform Pakistan
-> Full-featured restaurant management and discovery platform live at [dinein.pk](https://dinein.pk)
-
-**Stack:** Next.js · Django · PostgreSQL · JWT · Google OAuth
-
----
-
-### 🧊 3D AV Configurator
-> Real-time 3D product configurator for a Boston-based client. Texture mapping, orbital controls, custom model loading.
-
-**Stack:** React Three Fiber · Three.js · TypeScript
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -129,13 +167,12 @@ My work sits at the intersection of **AI engineering** and **production web syst
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaAsif043&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=HamzaAsif043&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=HamzaAsif043&theme=tokyonight&hide_border=true" height="165"/>
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=HamzaAsif043&theme=tokyonight&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAsif043&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=HamzaAsif043&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=HamzaAsif043&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
@@ -143,14 +180,17 @@ My work sits at the intersection of **AI engineering** and **production web syst
 
 ## 🎓 Certifications
 
-- 🏅 [IBM AI Engineering Professional Certificate](https://coursera.org/verify/A6U3K4ZPCHTY) — Coursera (Verified)
+| Certificate | Issuer | Verify |
+|---|---|---|
+| IBM AI Engineering Professional | Coursera / IBM | [✅ Verified](https://coursera.org/verify/A6U3K4ZPCHTY) |
 
 ---
 
 <div align="center">
 
-*Open to full-time roles, freelance projects, and interesting collaborations.*
-*If you're building something real — let's talk.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+*Open to full-time roles, freelance projects, and meaningful collaborations.*
 
 **[hamza.asif0087@gmail.com](mailto:hamza.asif0087@gmail.com)**
 
