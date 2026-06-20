@@ -30,14 +30,14 @@
 
 ```python
 class HamzaAsif:
-    role        = "Full-Stack Developer @ BlenSpark"
+    role        = "Full-Stack Developer"
     education   = "BS Artificial Intelligence, UMT — Class of 2026"
     location    = "Lahore, Pakistan 🇵🇰"
     focus       = ["Voice AI", "Autonomous Agents", "Full-Stack Systems"]
     goal        = "Build products that scale — then take them global"
 ```
 
-I build production AI systems — voice agents handling real phone calls in Urdu & English, autonomous desktop agents, and full-stack platforms shipped to international clients. Currently in my final semester while shipping at [BlenSpark](https://blenspark.com).
+I build production AI systems — voice agents handling real phone calls in Urdu & English, autonomous desktop agents, and full-stack platforms shipped to international clients. Currently in my final semester while shipping.
 
 <br clear="right"/>
 
