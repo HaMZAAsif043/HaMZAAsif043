@@ -57,7 +57,7 @@ I build production AI systems — voice agents handling real phone calls in Urdu
 </td>
 <td width="50%">
 
-**🎙️ Voice Agent Platform (BlenSpark)**
+**🎙️ Voice Agent Platform**
 > Bilingual Urdu/English voice agents — Sara (healthcare), Zara & Ali (restaurants) — handling real phone calls with near-zero latency.
 
 `Gemini Live API` `Django Channels` `WebSockets` `Twilio/SIP`
@@ -76,7 +76,7 @@ I build production AI systems — voice agents handling real phone calls in Urdu
 <td width="50%">
 
 **🌐 TravelMate AI — FYP**
-> Full-stack AI travel planning agent with real-time flight and hotel search.
+> Multi-agent AI travel planner with real-time flight and hotel search, custom MCP server.
 
 `Django` `Next.js` `Groq` `Amadeus API`
 
@@ -89,9 +89,9 @@ I build production AI systems — voice agents handling real phone calls in Urdu
 ## 🏗️ Featured Projects
 
 <details>
-<summary><b>🎙️ Voice Agent Platform — Live at BlenSpark</b></summary>
+<summary><b>🎙️ Voice Agent Platform</b></summary>
 <br/>
-Production bilingual voice agent platform handling real inbound/outbound calls in Urdu & English. Personas include Sara (healthcare) and Zara/Ali (restaurants). Built on a custom WebSocket consumer architecture bridging SIP/Twilio audio (μ-law 8kHz) to Gemini Live (PCM16 16kHz) with real-time audioop transcoding. Deployed on Railway with Daphne ASGI.
+Production bilingual voice agent platform handling real inbound/outbound calls in Urdu & English. Personas include Sara (healthcare) and Zara/Ali (restaurants). Built on a custom WebSocket consumer architecture bridging SIP/Twilio audio (μ-law 8kHz) to Gemini Live (PCM16 16kHz) with real-time audioop transcoding. Cut latency 8s → <2s and cost ~80%.
 <br/><br/>
 🔗 <a href="https://voiceagent.blenspark.com/"><strong>voiceagent.blenspark.com</strong></a>
 <br/><br/>
@@ -99,7 +99,7 @@ Production bilingual voice agent platform handling real inbound/outbound calls i
 </details>
 
 <details>
-<summary><b>🧊 3D Product Configurator — Live at BlenSpark</b></summary>
+<summary><b>🧊 3D Product Configurator</b></summary>
 <br/>
 Real-time 3D product configurator for international clients — texture mapping, normal map controls, orbital camera, and live material switching. Shipped for a Boston-based AV company.
 <br/><br/>
@@ -129,6 +129,12 @@ Voice-to-voice WhatsApp bot using Green API — OGG OPUS recording → Gemini 2.
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nextjs,react,typescript,tailwind,postgres,mongodb,redis,docker,aws,git&theme=dark" />
+</div>
+
+<br/>
 
 **Languages**
 
@@ -174,14 +180,33 @@ Voice-to-voice WhatsApp bot using Green API — OGG OPUS recording → Gemini 2.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaAsif043&theme=tokyonight" width="97%"/>
+
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HamzaAsif043&theme=tokyonight"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HamzaAsif043&theme=tokyonight"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HamzaAsif043&theme=tokyonight"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HamzaAsif043&theme=tokyonight&utcOffset=5"/></td>
+  </tr>
+</table>
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=HamzaAsif043&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=HamzaAsif043&theme=tokyonight&hide_border=true" height="165"/>
 
-<br/>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaAsif043&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true&area_color=1c1240&custom_title=Contribution%20Activity%20Graph" width="97%"/>
+
+<br/><br/>
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=HamzaAsif043&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
@@ -189,11 +214,42 @@ Voice-to-voice WhatsApp bot using Green API — OGG OPUS recording → Gemini 2.
 
 ---
 
-## 🎓 Certifications
+## 🐍 Contribution Snake
 
-| Certificate | Issuer | Verify |
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaMZAAsif043/HaMZAAsif043/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaMZAAsif043/HaMZAAsif043/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HaMZAAsif043/HaMZAAsif043/output/github-snake-dark.svg" width="97%"/>
+</picture>
+
+<sub>⚙️ needs the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action set up once on your profile repo to generate this</sub>
+
+</div>
+
+---
+
+## 🎓 Certifications & Achievements
+
+| Certificate / Milestone | Issuer | Note |
 |---|---|---|
-| IBM AI Engineering Professional | Coursera / IBM | [✅ Verified](https://coursera.org/verify/A6U3K4ZPCHTY) |
+| IBM AI Engineering Professional | Coursera / IBM | Verified |
+| Anthropic MCP Certification | Anthropic | Model Context Protocol |
+| Frontend Intern → Full-Stack AI Engineer | BlenSpark | Progressed through 3 roles |
+| Open Source Contribution | opensre/Tracer-Cloud | Merged PR |
+| GSoC 2027 (targeting) | OWASP BLT / Wagtail | In prep |
+| Voice AI Latency Optimization | BlenSpark | 8s → <2s, ~80% cost cut |
+
+---
+
+## 💭 Wisdom Wall
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="82%"/>
+
+</div>
 
 ---
 
